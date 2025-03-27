@@ -1,0 +1,3 @@
+D:/FILES/Programming Files/CLion projects/snake_game_submit/cmake-build-release/CMakeFiles/snake_game_submit.dir
+D:/FILES/Programming Files/CLion projects/snake_game_submit/cmake-build-release/CMakeFiles/edit_cache.dir
+D:/FILES/Programming Files/CLion projects/snake_game_submit/cmake-build-release/CMakeFiles/rebuild_cache.dir
